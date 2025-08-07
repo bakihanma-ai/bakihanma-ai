@@ -4,7 +4,7 @@
 💻 Learning: Python, Web Dev, Git & GitHub  
 🧠 Interested in Machine Learning & AI  
 📫 Contact me: ashishparmar8572@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/ashish-parmar-7397552a9)
+🔗 [LinkedIn](https://www.linkedin.com/in/ashish-parmar-)
 
 ---
 
